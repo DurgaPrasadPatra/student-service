@@ -40,7 +40,7 @@
 	<repository>
 		<id>student-service</id>
 		<name>student-service</name>
-		<url>http://65.0.11.252:8081/repository/student-service/</url>
+		<url>http://52.66.152.80:8081/repository/student-service/</url>
 	</repository>
 </distributionManagement>
 	<build>
