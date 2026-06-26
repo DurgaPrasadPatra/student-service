@@ -6,3 +6,4 @@ okayyy sonarqube done
 okayy nexus done
 yes I did it successfully..congratulation
 DurgaDevops
+All set
