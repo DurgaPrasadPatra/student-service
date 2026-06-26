@@ -4,3 +4,4 @@
 ## added on 26 jun ok 2012
 okayyy sonarqube done
 okayy nexus done
+yes I did it successfully..congratulation
